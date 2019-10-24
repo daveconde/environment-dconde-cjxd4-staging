@@ -13,7 +13,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 104.155.98.235.nip.io
+    domain: cjxd4.dconde.jenkins-x.rocks
     exposer: Ingress
     http: "true"
     tlsacme: "false"
